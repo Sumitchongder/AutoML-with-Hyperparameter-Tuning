@@ -1,4 +1,4 @@
-# 🚀 AutoML Streamlit App
+# 🚀 HYPERML: ACCELERATING AI WITH ADVANCED AUTOMATION
 
 [![GitHub Stars](https://img.shields.io/github/stars/Sumitchongder/AutoML-with-Hyperparameter-Tuning?style=social)](https://github.com/Sumitchongder/AutoML-with-Hyperparameter-Tuning)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -10,6 +10,12 @@
 
 This project is a **complete, production-ready AutoML web app**.
 Users can upload a dataset, explore data, train ML models, compare them, visualize results, and download a final model — all through a simple GUI.
+
+---
+
+## 📜 Copyright Registration (Government of India)
+
+<img width="1168" height="1927" alt="Image" src="https://github.com/user-attachments/assets/47475ac4-60d3-4e47-902b-161672c87a96" />
 
 ---
 
