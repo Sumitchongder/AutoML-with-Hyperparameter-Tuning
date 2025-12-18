@@ -9,7 +9,7 @@
 ### **A No-Code Machine Learning Platform Built with PyCaret + Streamlit**
 
 This project is a **complete, production-ready AutoML web app**.
-Users can upload a dataset, explore data, train ML models, compare them, visualize results, and download a final model — all through a simple GUI.
+Users can upload a dataset, explore data, train ML models, compare them, visualize results, and download a final model all through a simple GUI.
 
 ---
 
