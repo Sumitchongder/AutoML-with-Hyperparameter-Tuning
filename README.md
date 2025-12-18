@@ -3,8 +3,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Sumitchongder/AutoML-with-Hyperparameter-Tuning?style=social)](https://github.com/Sumitchongder/AutoML-with-Hyperparameter-Tuning)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-brightgreen.svg)](https://streamlit.io/)
-[![PyCaret](https://img.shields.io/badge/PyCaret-3.3.2-orange.svg)](https://pycaret.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PyCaret](https://img.shields.io/badge/PyCaret-3.3.2-yellow.svg)](https://pycaret.org/)
+[![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 
 ### **A No-Code Machine Learning Platform Built with PyCaret + Streamlit**
 
