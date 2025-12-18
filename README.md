@@ -15,7 +15,9 @@ Users can upload a dataset, explore data, train ML models, compare them, visuali
 
 ## 📜 Copyright Registration (Government of India)
 
-<img width="1168" height="1927" alt="Image" src="https://github.com/user-attachments/assets/47475ac4-60d3-4e47-902b-161672c87a96" />
+<p align="center">
+   <img width="600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/47475ac4-60d3-4e47-902b-161672c87a96" />
+</p>
 
 ---
 
