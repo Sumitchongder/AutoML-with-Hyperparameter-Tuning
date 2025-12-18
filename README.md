@@ -13,14 +13,6 @@ Users can upload a dataset, explore data, train ML models, compare them, visuali
 
 ---
 
-## 📜 Copyright Registration (Government of India)
-
-<p align="center">
-   <img width="600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/47475ac4-60d3-4e47-902b-161672c87a96" />
-</p>
-
----
-
 ## 🌟 Features
 
 ### 📁 **1. Upload Any CSV Dataset**
@@ -255,6 +247,14 @@ No extra config required.
 * Model monitoring dashboard
 * Multi-page UI
 * Cloud model registry
+
+---
+
+## 📜 Copyright Registration (Government of India)
+
+<p align="center">
+   <img width="600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/47475ac4-60d3-4e47-902b-161672c87a96" />
+</p>
 
 ---
 
